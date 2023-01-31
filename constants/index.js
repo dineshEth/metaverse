@@ -72,17 +72,21 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    link:'https://www.twitter.com/dinesh_eth'
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    link:'https://www.linkedin.com/in/dinesh-prajapati-looking-for-intership-26b1a7216/'
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    link:'https://www.instagram.com/dinesh.eth'
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: 'github',
+    url: '/github.svg',
+    link:'https://www.github.com/dineshEth'
   },
 ];
